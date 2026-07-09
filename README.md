@@ -3,7 +3,7 @@
 Progetto per il corso di **Human Language Technologies (HLT)** — Università di Pisa
 Group 12: Benedetta Muscato, Praveen Bushipaka, Simona Cattari, Matteo Trivelli
 
-> ⚠️ **Nota:** i notebook originali con il codice completo non sono inclusi in questo repository per limiti di dimensione file. Questo repository contiene il **report finale del progetto in PDF**, che descrive in dettaglio metodologia, esperimenti e risultati.
+**Nota:** i notebook originali con il codice completo non sono inclusi in questo repository per limiti di dimensione file. Questo repository contiene il **report finale del progetto in PDF**, che descrive in dettaglio metodologia, esperimenti e risultati.
 
 ## Overview
 
